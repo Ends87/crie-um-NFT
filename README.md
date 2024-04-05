@@ -3,25 +3,21 @@
 ## 1. Configurando sua Carteira:
 
 * **Adicione a Rede Polygon:**
-    * Acesse o site da Chainlist: [https://chainlist.org/](https://chainlist.org/)
+    * Usei o site da Chainlist para obter as informações da Blockchain da Polygon: [https://chainlist.org/](https://chainlist.org/)
     * Procure por "Polygon".
-    * Adicione a Rede Polygon MainNet a sua Metamask
+    * Adicione a Rede Polygon MainNet a sua Metamask.
 
 
-## 2. Conectando sua Carteira à OpenSea:
+## 2. Criando a NFT na OpenSea:
 
-* **Acesse o site da OpenSea:** [https://opensea.io/](https://opensea.io/)
+* **Acessei o site da [OpenSea](https://opensea.io/)
 
-* **Clique no ícone de perfil:** Canto superior direito.
+* **Conectei a MetaMask.
 
-* **Conecte sua carteira:** Selecione "MetaMask".
+* **Selecionei a Rede Polygon:**
+    * Clickando no ícone de rede no canto superior direito da OpenSea.
 
-
-* **Alterne para a Rede Polygon:**
-    * Clique no ícone de rede no canto superior direito da OpenSea.
-    * Selecione "Polygon".
-
-## 3. Criando sua Coleção:
+* *Criando sua Coleção:
 
 * **Clique em "Criar":** No menu principal da OpenSea.
 
@@ -35,4 +31,9 @@
 
 * **Selecionei o arquivo:** Para esse modelo usei a imagem de <a href="https://pixabay.com/pt/users/kiberstalker-8605132/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8626173">Dmytro</a> por <a href="https://pixabay.com/pt//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8626173">Pixabay</a>
 
-* **
+## 5. Transferindo seu NFT para outro usuário:
+
+* **Na página do seu NFT na OpenSea, clique em "Transferir".
+* **Insira o endereço da carteira do destinatário.
+* **Opcionalmente, adicione uma mensagem para o destinatário.
+* **Clique em "Transferir" e confirme a transação na sua carteira MetaMask.
