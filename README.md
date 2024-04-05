@@ -1,5 +1,5 @@
 #Desafio DIO Crie um NFT OpenSea
- 
+
 ## 1. Configurando sua Carteira:
 
 * **Adicione a Rede Polygon:**
@@ -10,30 +10,19 @@
 
 ## 2. Criando a NFT na OpenSea:
 
-* **Acessei o site da [OpenSea](https://opensea.io/)
+* **Acessei o site da [OpenSea](https://opensea.io/)**
 
-* **Conectei a MetaMask.
 
 * **Selecionei a Rede Polygon:**
     * Clickando no ícone de rede no canto superior direito da OpenSea.
 
-* *Criando sua Coleção:
+* **Na sessão "Create" da OpenSea:** Tive que Criar uma "Nova Coleção" para ter um contrato  e um novo espaço para as NFTs.
 
-* **Clique em "Criar":** No menu principal da OpenSea.
-
-* **Selecione "Nova Coleção":** Escolha "Nova Coleção" para criar um novo espaço para seus NFTs.
-
-* **Crie a coleção:** Clique em "Criar" para finalizar a criação da sua coleção.
-
-## 4. Criando e Listando seu NFT:
-
-* **Clique em "Criar":** Na página da sua coleção.
+* **Cliquei em "Criar":** Na página da sua coleção.
 
 * **Selecionei o arquivo:** Para esse modelo usei a imagem de <a href="https://pixabay.com/pt/users/kiberstalker-8605132/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8626173">Dmytro</a> por <a href="https://pixabay.com/pt//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8626173">Pixabay</a>
 
 ## 5. Transferindo seu NFT para outro usuário:
 
-* **Na página do seu NFT na OpenSea, clique em "Transferir".
-* **Insira o endereço da carteira do destinatário.
-* **Opcionalmente, adicione uma mensagem para o destinatário.
-* **Clique em "Transferir" e confirme a transação na sua carteira MetaMask.
+* **Na página do seu NFT na OpenSea, cliquei em "Transferir".
+* **Colei o endereço do especificado:** (0xA9155F5B6FC993A82346a8ff86EFEf513fc4c096) e  confirme a transação na sua carteira MetaMask.
