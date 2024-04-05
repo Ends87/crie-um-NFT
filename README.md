@@ -22,7 +22,7 @@
 
 * **Selecionei o arquivo:** Para esse modelo usei a imagem de <a href="https://pixabay.com/pt/users/kiberstalker-8605132/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8626173">Dmytro</a> por <a href="https://pixabay.com/pt//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8626173">Pixabay</a>
 
-## 5. Transferindo seu NFT para outro usuário:
+## 3. Transferindo seu NFT para outro usuário:
 
 * **Na página do seu NFT na OpenSea, cliquei em "Transferir".
 * **Colei o endereço do especificado:** (0xA9155F5B6FC993A82346a8ff86EFEf513fc4c096) e  confirme a transação na sua carteira MetaMask.
